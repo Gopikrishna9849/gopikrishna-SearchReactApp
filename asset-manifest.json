@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gopikrishna-SearchReactApp/static/css/main.2a80186b.css",
+    "main.js": "/gopikrishna-SearchReactApp/static/js/main.f2d0ed27.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gopikrishna-SearchReactApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/gopikrishna-SearchReactApp/index.html",
+    "main.2a80186b.css.map": "/gopikrishna-SearchReactApp/static/css/main.2a80186b.css.map",
+    "main.f2d0ed27.js.map": "/gopikrishna-SearchReactApp/static/js/main.f2d0ed27.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gopikrishna-SearchReactApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a80186b.css",
+    "static/js/main.f2d0ed27.js"
+  ]
+}
